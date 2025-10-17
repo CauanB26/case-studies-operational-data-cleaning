@@ -1,9 +1,20 @@
-> **❕ Nota:** Para os leitores em português, a versão em português está logo abaixo dessa. 
+[PT-BR] Para a versão em português deste documento, role até o final da página.  
+
+---
+
 ### **English Version**
 
 > **⚠️ Note:** This is a case study of a data processing pipeline. For confidentiality reasons, other files are not shared.  
  
 
+---
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Pipeline-green.svg?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blueviolet.svg?style=for-the-badge&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-Statistics%20%26%20Analysis-orange.svg?style=for-the-badge&logo=scipy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting%20%26%20Visualization-white.svg?style=for-the-badge&logo=matplotlib)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-ETL%20Pipeline-blueviolet.svg?style=for-the-badge)
+![Algorithm](https://img.shields.io/badge/Algorithm-Anomaly%20Detection-9cf.svg?style=for-the-badge)
 ---
 
 ### 🎯 Project Objective
@@ -92,7 +103,14 @@ The main result was the ability to quickly and reliably generate an indicator, a
 > **⚠️ Observação:** Este é um case study de um pipeline de processamento de dados. Por motivos de confidencialidade, os demais arquivos não são compartilhados.
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Pipeline%20de%20Dados-green.svg?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Computação%20Numérica-blueviolet.svg?style=for-the-badge&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-Estatística%20%26%20Análise-orange.svg?style=for-the-badge&logo=scipy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Geração%20de%20Gráficos-white.svg?style=for-the-badge&logo=matplotlib)
+![Engenharia de Dados](https://img.shields.io/badge/Engenharia%20de%20Dados-Pipeline%20ETL-blueviolet.svg?style=for-the-badge)
+![Algoritmo](https://img.shields.io/badge/Algoritmo-Detecção%20de%20Anomalias-9cf.svg?style=for-the-badge)
+---
 ### 🎯 Objetivo do Projeto
 
 O objetivo deste projeto foi desenvolver um pipeline de análise de dados robusto para automatizar o processamento e a interpretação de dados. A solução trata dados brutos extraídos de planilhas Excel, em uma série limpa e confiável, permitindo o cálculos e avaliações mais precisas, auxiliando na tomada de decisões sobre manutenção e operação.
